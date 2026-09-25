@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">json_pr_32_KachalinSemen</string>
+    <string name="seri">Сериализовать</string>
+    <string name="name_prod">Название товара</string>
+    <string name="price">Цена</string>
+    <string name="tags">Теги (через запятую)</string>
+</resources>
